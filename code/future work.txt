@@ -1,0 +1,1 @@
+make a .py file and use streamlit for it's web interface
