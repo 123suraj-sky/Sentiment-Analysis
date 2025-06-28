@@ -15,7 +15,7 @@ The project was developed as part of the *AI Training Programme - Data Scientist
 
 ### 1. Clone the repository
 ```sh
-git clone <repo-url>
+git clone https://github.com/123suraj-sky/Sentiment-Analysis
 cd Sentiment-Analysis
 ```
 
